@@ -1,0 +1,3 @@
+rootProject.name = "libjpeg"
+include ':app'
+include ':jpeglib'
